@@ -6,4 +6,7 @@ Bu program, bir üretici-tüketici senaryosunu modellemektedir. Üretici, veri �
 Ebeveyn süreç, bir boru oluşturur (pipe) ve bu boru üzerinden "Merhaba" metnini yazar. Ardından, paylaşılan belleğe bu metni yazar.
 Çocuk süreç, aynı boruyu kullanarak "Merhaba" metnini okur ve ekrana yazar. Ayrıca, paylaşılan belleğe bu metni yazar.
 Ebeveyn süreç, bu paylaşılan belleğe yazarken, çocuk süreç bu belleği okur ve ekrana yazar
+# Ekran çıktısı 
+https://github.com/MustfaOzcan/IsletimSistemi/assets/103693735/360dcf91-ee38-4ba3-82ce-59dadd1b5264
+
 
